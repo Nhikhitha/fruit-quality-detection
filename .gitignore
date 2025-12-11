@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# YOLO training output
+runs/
+weights/
+*.pt
+
+# Model checkpoints
+*.keras
+*.h5
+
+# Datasets
+datasets/
+train/
+valid/
+test/
+data/
+annotations/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

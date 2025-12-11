@@ -1,0 +1,13 @@
+path: C:\Users\nhikh\Documents\fruit quality project\data
+
+train: C:\Users\nhikh\Documents\fruit quality project\data\Train
+val: C:\Users\nhikh\Documents\fruit quality project\data\Validation
+
+nc: 6
+names:
+  - Bird bite
+  - Damaged
+  - Good
+  - Malus
+  - Natural damage
+  - Rotten
